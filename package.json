@@ -1,0 +1,19 @@
+{
+  "name": "image-serch-abstraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "google-images": "^2.1.0",
+    "google-search-results-nodejs": "0.0.1",
+    "mongoose": "^5.2.5",
+    "node-bing-api": "^4.0.0"
+  }
+}
